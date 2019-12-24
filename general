@@ -1,0 +1,1 @@
+sudo chmod -R o+rw filename - changing file permission
