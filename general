@@ -1,1 +1,5 @@
 sudo chmod -R o+rw filename - changing file permission
+
+
+git init 
+git remote add origin gitclone
