@@ -1,0 +1,9 @@
+Creating/git-clone:
+
+npx create-react-app my-app
+cd my-app
+npm start
+
+Installing packages:
+
+sudo npm install -g XXX --save
