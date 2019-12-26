@@ -7,3 +7,19 @@ npm start
 Installing packages:
 
 sudo npm install -g XXX --save
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Additional:
+To get access for File and url loading when clonning from github: sudo npm install --save-dev url-loader file-loader 
