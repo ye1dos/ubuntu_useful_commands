@@ -1,5 +1,7 @@
-sudo chmod -R o+rw filename - changing file permission
+Changing file permission:
+sudo chmod -R o+rw filename
 
+pushing:
 
 git init 
 git remote add origin gitclone
