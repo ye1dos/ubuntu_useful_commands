@@ -1,4 +1,5 @@
 Changing file permission:
+
 sudo chmod -R o+rw filename
 
 pushing:
@@ -7,3 +8,13 @@ git init
 git remote add origin gitclone
 git add .
 git commit -m "Name"
+
+
+TAR.GZ:
+
+tar -xzf archive.tar.gz
+tar -xzf archive-name.tar.gz
+cd archive-name
+./configure
+make
+sudo make install
