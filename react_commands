@@ -8,7 +8,8 @@ Installing packages:
 
 sudo npm install -g XXX --save
 
-
+rcc - create react component
+code . - open vscode
 
 
 
