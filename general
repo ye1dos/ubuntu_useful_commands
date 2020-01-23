@@ -18,3 +18,24 @@ cd archive-name
 ./configure
 make
 sudo make install
+
+
+# project pushing 
+
+git checkout -b client-home <= (creating new branch -b is new branch)
+git checkout client-home <=(move to branch)
+git status <=(check changings)
+git add .<=(adding changes (. means all))
+git status <=(chack changings)
+git commit -m "Create initial product page and link to router" <=((-m means message) " " relatively that message)
+git push origin client-home <=(push zhiberu pull alu)
+git status <=(chack changings)
+git master <=()
+
+
+git master <=(masterdy alu)
+git branch master
+git checkout master
+git pull origin master
+
+git checkout -b product-page
