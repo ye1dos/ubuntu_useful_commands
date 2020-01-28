@@ -21,7 +21,7 @@ sudo make install
 
 
 # project pushing 
-
+git init
 git checkout -b client-home <= (creating new branch -b is new branch)
 git checkout client-home <=(move to branch)
 git status <=(check changings)
