@@ -45,6 +45,8 @@ New project
 git init
 git add .
 git commit -m "sth"
-git remote add origin remote repository URL
+git remote add origin URL
+(Sets the new remote)
 git remote -v
+(Verifies the new remote URL)
 git push -f origin master
