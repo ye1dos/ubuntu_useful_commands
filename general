@@ -2,6 +2,9 @@ Changing file permission:
 
 sudo chmod -R o+rw filename
 
+-- Remove the history from 
+rm -rf .git
+
 pushing:
 
 git init 
