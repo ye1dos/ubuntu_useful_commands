@@ -5,6 +5,10 @@ sudo chmod -R o+rw filename
 -- Remove the history from 
 rm -rf .git
 
+remote:
+git remote show origin
+git remote remove origin
+
 pushing:
 
 git init 
