@@ -1,0 +1,2 @@
+sudo lsof -iTCP:{8080} -sTCP:LISTEN
+kill -9 {pid}
