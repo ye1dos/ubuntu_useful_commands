@@ -1,0 +1,1 @@
+"debug": "REACT_DEBUGGER=\"rndebugger-open --open --expo\" expo start"
