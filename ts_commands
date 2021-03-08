@@ -1,0 +1,3 @@
+// creating proj
+npm create-react-app pname --template typescript
+npm i @types/react --dev
