@@ -57,3 +57,7 @@ git remote add origin URL
 git remote -v
 (Verifies the new remote URL)
 git push -f origin master
+
+
+npx husky install
+npx lins-staged
